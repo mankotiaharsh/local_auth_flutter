@@ -15,3 +15,5 @@ This app leverages the power of the local_auth dependency to provide robust and 
 - 🔄 Fallback Mechanism: Provides an alternative security method when biometrics are unavailable.
   
 # 🎥 Video Sample
+https://github.com/user-attachments/assets/8da821c7-a6d2-437b-8cd1-38c6b84bd232
+
