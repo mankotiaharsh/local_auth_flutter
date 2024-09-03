@@ -33,7 +33,7 @@ class _HomeScreenState extends State<HomeScreen> {
           ),
           if (isAuthenticated)
             const Text(
-              "1,00,00,000",
+              "₹ 1,00,00,000",
               style: TextStyle(fontSize: 26, fontWeight: FontWeight.w600),
             )
           else
